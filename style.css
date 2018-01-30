@@ -1,0 +1,43 @@
+body {
+	background: url(bg.jpg) no-repeat center fixed;
+	background-color: white;
+	font-family: sans-serif;
+	text-align: center;
+}
+
+h1 {
+	color: red;
+	font-size: 50px;
+	font-weight: normal;
+	margin-bottom: 0;
+	font-family: 'Acme', sans-serif;
+}
+
+h2 {
+	color: white;
+	font-size: 18px;
+	margin-top: 0;
+}
+
+.me {
+	height: 150px;
+	width: 150px;
+	border-radius: 100%;
+	border-style: solid;
+	border-color: white;
+	margin-top: 40px;
+}
+
+.bio {
+	color: yellow;
+	font-size: 14px;
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+    font-family: 'Philosopher', sans-serif;
+}
+
+hr {
+	width: 70px;
+}
