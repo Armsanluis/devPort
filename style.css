@@ -39,5 +39,7 @@ h2 {
 }
 
 hr {
-	width: 70px;
+	width: 130px;
+	height: 2px;
+	color: white
 }
